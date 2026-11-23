@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NEW+KOLIGANEK+VILLAGE+COUNCIL",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NEW+KOLIGANEK+VILLAGE+COUNCIL",
+  "title": "Federal Register - AK NEW KOLIGANEK VILLAGE COUNCIL",
+  "fetched_at": "2026-11-23T16:28:03.781264Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 201097,
+  "sha256": "6460fb2a9468a6a9d298dc3b5fd280267887cce57eb42c178a8e5a68d6c8f925",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
